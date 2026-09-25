@@ -1,0 +1,6426 @@
+{
+ "snapshot_date": "2026-09-24",
+ "source_id": "ha-skillselect-rounds",
+ "source_url": "https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect/invitation-rounds",
+ "raw_sha256": "8c7b63d621b1e04e38ffb014fc315128593e4796318baaa1828bb2ff2f308f47",
+ "previous_source_url": "https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect/previous-rounds",
+ "previous_raw_sha256": "0e56ecf71e2cc42946997d6a023c6adfa0d024688704ce5be59bca8da43d467c",
+ "rounds_total": 19,
+ "latest_date": "2026-06-04",
+ "rounds": [
+  {
+   "date": "2026-06-04",
+   "totals": [
+    {
+     "subclass": "189",
+     "invited": 10000,
+     "invited_text": "10,000",
+     "tie_break_text": "24/04/2026"
+    }
+   ],
+   "occupations_format": "modern",
+   "occupations": [
+    {
+     "occupation": "Actuary",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Agricultural Consultant",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Agricultural Scientist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Airconditioning and Mechanical Services Plumber",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Airconditioning and Refrigeration Mechanic",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Architect",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Arts Administrator or Manager",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Audiologist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Automotive Electrician",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Barrister",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Biotechnologist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Boat Builder and Repairer",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Bricklayer",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Cabinetmaker",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Cardiologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Carpenter",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Carpenter and Joiner",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Cartographer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Chemist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Child Care Centre Manager",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Chiropractor",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Clinical Psychologist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Construction Project Manager",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Dancer or Choreographer",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Dermatologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Diagnostic and Interventional Radiologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Drainer",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Economist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Electrical Engineering Draftsperson",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Electrical Engineering Technician",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Electrician (General)",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Electrician (Special Class)",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Electronic Equipment Trades Worker",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Electronic Instrument Trades Worker (General)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Electronic Instrument Trades Worker (Special Class)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Electronics Engineer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Emergency Medicine Specialist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Endocrinologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Engineering Manager",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Environmental Consultant",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Environmental Manager",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Environmental Research Scientist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Environmental Scientists nec",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Fibrous Plasterer",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Fitter (General)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Fitter and Turner",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Food Technologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Footballer",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Forester",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Gasfitter",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Gastroenterologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "General Practitioner",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Geophysicist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Glazier",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Hydrogeologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Intensive Care Specialist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Joiner",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Land Economist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Landscape Architect",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Life Scientist (General)",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Life Scientists nec",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Lift mechanic",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Management Consultant",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Marine Biologist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Medical Diagnostic Radiographer",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Medical Laboratory Scientist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Medical Practitioners nec",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Medical Radiation Therapist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Metal Fabricator",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Metal Machinist (First Class)",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Metallurgist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Meteorologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Microbiologist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Midwife",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Mining Engineer (excluding Petroleum)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Multimedia Specialist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Music Director",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Musician (Instrumental)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Natural and Physical Science Professionals nec",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Nuclear Medicine Technologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Nurse Practitioner",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Obstetrician and Gynaecologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Occupational Therapist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Ophthalmologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Optometrist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Organisational Psychologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Orthopaedic Surgeon",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Orthotist or Prosthetist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Osteopath",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Other Spatial Scientist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Paediatrician",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Panelbeater",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Petroleum Engineer",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Physicist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Physiotherapist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Plumber (General)",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Podiatrist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Primary Health Organisation Manager",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Psychiatrist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Psychologists nec",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Aged Care)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Child and Family Health)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Community Health)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Critical Care and Emergency)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Developmental Disability)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Disability and Rehabilitation)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Medical Practice)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Medical)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Mental Health)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Paediatrics)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Perioperative)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Surgical)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurses nec",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Roof Plumber",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Secondary School Teacher",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Sheetmetal Trades Worker",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Shipwright",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Social Worker",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Solicitor",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Solid Plasterer",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Sonographer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Special Education Teachers nec",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Special Needs Teacher",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Specialist Physician (General Medicine)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Specialist Physicians nec",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Speech Pathologist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Statistician",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Stonemason",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Surgeon (General)",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Surveyor",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Telecommunications Engineer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Telecommunications Network Engineer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Tennis Coach",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Thoracic Medicine Specialist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Urologist",
+     "min_189": 100,
+     "min_189_text": "100",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Valuer",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Veterinarian",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Wall and Floor Tiler",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Welder (First Class)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Welfare Centre Manager",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    }
+   ]
+  },
+  {
+   "date": "2025-11-13",
+   "totals": [
+    {
+     "subclass": "189",
+     "invited": 10000,
+     "invited_text": "10,000",
+     "tie_break_text": "11/2025"
+    },
+    {
+     "subclass": "491-family",
+     "invited": 300,
+     "invited_text": "300",
+     "tie_break_text": "10/2025"
+    }
+   ],
+   "occupations_format": "modern",
+   "occupations": [
+    {
+     "occupation": "Actuary",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Agricultural Consultant",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Agricultural Scientist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Airconditioning and Mechanical Services Plumber",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": 70,
+     "min_491_text": "70"
+    },
+    {
+     "occupation": "Architect",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Artistic Director",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Arts Administrator or Manager",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Audiologist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": 80,
+     "min_491_text": "80"
+    },
+    {
+     "occupation": "Automotive Electrician",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Barrister",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Biochemist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Biotechnologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Boat Builder and Repairer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Botanist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Bricklayer",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": 70,
+     "min_491_text": "70"
+    },
+    {
+     "occupation": "Cabinetmaker",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Cardiologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": 80,
+     "min_491_text": "80"
+    },
+    {
+     "occupation": "Carpenter",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": 65,
+     "min_491_text": "65"
+    },
+    {
+     "occupation": "Carpenter and Joiner",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": 95,
+     "min_491_text": "95"
+    },
+    {
+     "occupation": "Cartographer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Chemical Engineer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Chemist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Child Care Centre Manager",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Chiropractor",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Civil Engineering Draftsperson",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Civil Engineering Technician",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Clinical Psychologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Construction Project Manager",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Dermatologist",
+     "min_189": 100,
+     "min_189_text": "100",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Diagnostic and Interventional Radiologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Drainer",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Early Childhood (Pre-primary School) Teacher",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": 90,
+     "min_491_text": "90"
+    },
+    {
+     "occupation": "Economist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Electrical Engineering Draftsperson",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Electrical Engineering Technician",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Electrician (General)",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": 65,
+     "min_491_text": "65"
+    },
+    {
+     "occupation": "Electrician (Special Class)",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Electronic Equipment Trades Worker",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Electronic Instrument Trades Worker (General)",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Electronic Instrument Trades Worker (Special Class)",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Emergency Medicine Specialist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Engineering Manager",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Environmental Consultant",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Environmental Manager",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Environmental Research Scientist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Environmental Scientists nec",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Fibrous Plasterer",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": 65,
+     "min_491_text": "65"
+    },
+    {
+     "occupation": "Fitter (General)",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Food Technologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Forester",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Gasfitter",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": 80,
+     "min_491_text": "80"
+    },
+    {
+     "occupation": "General Practitioner",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": 85,
+     "min_491_text": "85"
+    },
+    {
+     "occupation": "Geophysicist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Glazier",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Hydrogeologist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Intensive Care Specialist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Joiner",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Land Economist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Landscape Architect",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Life Scientist (General)",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Life Scientists nec",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Management Consultant",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Marine Biologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Materials Engineer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Medical Diagnostic Radiographer",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": 85,
+     "min_491_text": "85"
+    },
+    {
+     "occupation": "Medical Laboratory Scientist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Medical Oncologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Medical Practitioners nec",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": 90,
+     "min_491_text": "90"
+    },
+    {
+     "occupation": "Medical Radiation Therapist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Metal Fabricator",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Metal Machinist (First Class)",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Metallurgist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Microbiologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Midwife",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": 75,
+     "min_491_text": "75"
+    },
+    {
+     "occupation": "Mining Engineer (excluding Petroleum)",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Motorcycle Mechanic",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Multimedia Specialist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Musician (Instrumental)",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Natural and Physical Science Professionals nec",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Neurologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Nurse Practitioner",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Obstetrician and Gynaecologist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Occupational Therapist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": 80,
+     "min_491_text": "80"
+    },
+    {
+     "occupation": "Ophthalmologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Optometrist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": 85,
+     "min_491_text": "85"
+    },
+    {
+     "occupation": "Organisational Psychologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Orthopaedic Surgeon",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Osteopath",
+     "min_189": 100,
+     "min_189_text": "100",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Other Spatial Scientist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Paediatrician",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Painting Trades Worker",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": 70,
+     "min_491_text": "70"
+    },
+    {
+     "occupation": "Pathologist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Petroleum Engineer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Physicist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Physiotherapist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": 75,
+     "min_491_text": "75"
+    },
+    {
+     "occupation": "Plumber (General)",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": 70,
+     "min_491_text": "70"
+    },
+    {
+     "occupation": "Podiatrist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Primary Health Organisation Manager",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A"
+    },
+    {
+     "occupation": "Psychiatrist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Psychologists nec",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Radiation Oncologist",
+     "min_189": null,
+     "min_189_text": "N/A*",
+     "min_491": 85,
+     "min_491_text": "85"
+    },
+    {
+     "occupation": "Registered Nurse (Aged Care)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": 80,
+     "min_491_text": "80"
+    },
+    {
+     "occupation": "Registered Nurse (Child and Family Health)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Registered Nurse (Community Health)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": 80,
+     "min_491_text": "80"
+    },
+    {
+     "occupation": "Registered Nurse (Critical Care and Emergency)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": 75,
+     "min_491_text": "75"
+    },
+    {
+     "occupation": "Registered Nurse (Developmental Disability)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": 80,
+     "min_491_text": "80"
+    },
+    {
+     "occupation": "Registered Nurse (Disability and Rehabilitation)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Registered Nurse (Medical Practice)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": 75,
+     "min_491_text": "75"
+    },
+    {
+     "occupation": "Registered Nurse (Medical)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": 75,
+     "min_491_text": "75"
+    },
+    {
+     "occupation": "Registered Nurse (Mental Health)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": 80,
+     "min_491_text": "80"
+    },
+    {
+     "occupation": "Registered Nurse (Paediatrics)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": 75,
+     "min_491_text": "75"
+    },
+    {
+     "occupation": "Registered Nurse (Perioperative)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": 80,
+     "min_491_text": "80"
+    },
+    {
+     "occupation": "Registered Nurse (Surgical)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": 80,
+     "min_491_text": "80"
+    },
+    {
+     "occupation": "Registered Nurses nec",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": 75,
+     "min_491_text": "75"
+    },
+    {
+     "occupation": "Roof Plumber",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Secondary School Teacher",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": 85,
+     "min_491_text": "85"
+    },
+    {
+     "occupation": "Social Worker",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": 85,
+     "min_491_text": "85"
+    },
+    {
+     "occupation": "Solicitor",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Solid Plasterer",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": 65,
+     "min_491_text": "65"
+    },
+    {
+     "occupation": "Sonographer",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Special Education Teachers nec",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Special Needs Teacher",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": 90,
+     "min_491_text": "90"
+    },
+    {
+     "occupation": "Specialist Physician (General Medicine)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Specialist Physicians nec",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Speech Pathologist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": 85,
+     "min_491_text": "85"
+    },
+    {
+     "occupation": "Statistician",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Stonemason",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Surgeon (General)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Surveyor",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Telecommunications Engineer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Telecommunications Field Engineer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Telecommunications Network Engineer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Telecommunications Network Planner",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Telecommunications Technical Officer or Technologist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Tennis Coach",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Thoracic Medicine Specialist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A"
+    },
+    {
+     "occupation": "Urologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Valuer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Vascular Surgeon",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Veterinarian",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Wall and Floor Tiler",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": 75,
+     "min_491_text": "75"
+    },
+    {
+     "occupation": "Welder (First Class)",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Welfare Centre Manager",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Zoologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    }
+   ]
+  },
+  {
+   "date": "2025-08-21",
+   "totals": [
+    {
+     "subclass": "189",
+     "invited": 6887,
+     "invited_text": "6,887",
+     "tie_break_text": "08/2025"
+    },
+    {
+     "subclass": "491-family",
+     "invited": 150,
+     "invited_text": "150",
+     "tie_break_text": "05/2025"
+    }
+   ],
+   "occupations_format": "modern",
+   "occupations": [
+    {
+     "occupation": "Actuary",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Agricultural Consultant",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Agricultural Scientist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Airconditioning and Mechanical Services Plumber",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": 70,
+     "min_491_text": "70"
+    },
+    {
+     "occupation": "Architect",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Arts Administrator or Manager",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Audiologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": 65,
+     "min_491_text": "65"
+    },
+    {
+     "occupation": "Barrister",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Biochemist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Biotechnologist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Boat Builder and Repairer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Bricklayer",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": 70,
+     "min_491_text": "70"
+    },
+    {
+     "occupation": "Cardiologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": 80,
+     "min_491_text": "80"
+    },
+    {
+     "occupation": "Carpenter",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Carpenter and Joiner",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Cartographer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Chemical Engineer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Chemist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Child Care Centre Manager",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Civil Engineering Draftsperson",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Civil Engineering Technician",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Clinical Psychologist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Conservator",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Construction Project Manager",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Dermatologist",
+     "min_189": 100,
+     "min_189_text": "100",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Diagnostic and Interventional Radiologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Drainer",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Early Childhood (Pre-primary School) Teacher",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": 80,
+     "min_491_text": "80"
+    },
+    {
+     "occupation": "Economist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Educational Psychologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Electrical Engineering Draftsperson",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Electrical Engineering Technician",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Electrician (General)",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": 75,
+     "min_491_text": "75"
+    },
+    {
+     "occupation": "Electrician (Special Class)",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Electronic Equipment Trades Worker",
+     "min_189": 110,
+     "min_189_text": "110",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Electronic Instrument Trades Worker (Special Class)",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Electronics Engineer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Emergency Medicine Specialist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Engineering Manager",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Environmental Consultant",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Environmental Manager",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Environmental Research Scientist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Environmental Scientists nec",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Fibrous Plasterer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Food Technologist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Forester",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Gasfitter",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": 80,
+     "min_491_text": "80"
+    },
+    {
+     "occupation": "Gastroenterologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A"
+    },
+    {
+     "occupation": "General Practitioner",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Geophysicist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Glazier",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Hydrogeologist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Intensive Care Specialist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Joiner",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Land Economist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Landscape Architect",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Life Scientist (General)",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Life Scientists nec",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Management Consultant",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Marine Biologist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Materials Engineer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Medical Diagnostic Radiographer",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": 90,
+     "min_491_text": "90"
+    },
+    {
+     "occupation": "Medical Laboratory Scientist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Medical Practitioners nec",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Medical Radiation Therapist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Metal Fabricator",
+     "min_189": 105,
+     "min_189_text": "105",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Metal Machinist (First Class)",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Metallurgist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Meteorologist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Microbiologist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Midwife",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": 75,
+     "min_491_text": "75"
+    },
+    {
+     "occupation": "Mining Engineer (excluding Petroleum)",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Musician (Instrumental)",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Natural and Physical Science Professionals nec",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Neurologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Nuclear Medicine Technologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Nurse Practitioner",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Obstetrician and Gynaecologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Occupational Therapist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Ophthalmologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Optometrist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Orthopaedic Surgeon",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Osteopath",
+     "min_189": 100,
+     "min_189_text": "100",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Other Spatial Scientist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Paediatric Surgeon",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Paediatrician",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Painting Trades Worker",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Panelbeater",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Petroleum Engineer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Physicist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Physiotherapist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": 80,
+     "min_491_text": "80"
+    },
+    {
+     "occupation": "Plumber (General)",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": 80,
+     "min_491_text": "80"
+    },
+    {
+     "occupation": "Podiatrist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Primary Health Organisation Manager",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A"
+    },
+    {
+     "occupation": "Psychiatrist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Psychologists nec",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Registered Nurse (Aged Care)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": 80,
+     "min_491_text": "80"
+    },
+    {
+     "occupation": "Registered Nurse (Child and Family Health)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Registered Nurse (Community Health)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Registered Nurse (Critical Care and Emergency)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": 65,
+     "min_491_text": "65"
+    },
+    {
+     "occupation": "Registered Nurse (Developmental Disability)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Registered Nurse (Disability and Rehabilitation)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Registered Nurse (Medical Practice)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Registered Nurse (Medical)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": 65,
+     "min_491_text": "65"
+    },
+    {
+     "occupation": "Registered Nurse (Mental Health)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": 90,
+     "min_491_text": "90"
+    },
+    {
+     "occupation": "Registered Nurse (Paediatrics)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": 85,
+     "min_491_text": "85"
+    },
+    {
+     "occupation": "Registered Nurse (Perioperative)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": 85,
+     "min_491_text": "85"
+    },
+    {
+     "occupation": "Registered Nurse (Surgical)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": 80,
+     "min_491_text": "80"
+    },
+    {
+     "occupation": "Registered Nurses nec",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": 5,
+     "min_491_text": "5"
+    },
+    {
+     "occupation": "Roof Plumber",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Secondary School Teacher",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": 80,
+     "min_491_text": "80"
+    },
+    {
+     "occupation": "Social Worker",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": 80,
+     "min_491_text": "80"
+    },
+    {
+     "occupation": "Solicitor",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Solid Plasterer",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Sonographer",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Special Needs Teacher",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": 80,
+     "min_491_text": "80"
+    },
+    {
+     "occupation": "Specialist Physician (General Medicine)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Specialist Physicians nec",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Speech Pathologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": 65,
+     "min_491_text": "65"
+    },
+    {
+     "occupation": "Statistician",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Stonemason",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Surveyor",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Tennis Coach",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Thoracic Medicine Specialist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A"
+    },
+    {
+     "occupation": "University Lecturer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": 80,
+     "min_491_text": "80"
+    },
+    {
+     "occupation": "Urologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Valuer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Veterinarian",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Wall and Floor Tiler",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": 75,
+     "min_491_text": "75"
+    },
+    {
+     "occupation": "Welder (First Class)",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    },
+    {
+     "occupation": "Zoologist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": "N/A*"
+    }
+   ]
+  },
+  {
+   "date": "2024-11-07",
+   "totals": [
+    {
+     "subclass": "189",
+     "invited": 15000,
+     "invited_text": "15,000",
+     "tie_break_text": "12/2022"
+    },
+    {
+     "subclass": "491-family",
+     "invited": 0,
+     "invited_text": "0",
+     "tie_break_text": "N/A"
+    }
+   ],
+   "occupations_format": "modern",
+   "occupations": [
+    {
+     "occupation": "Accountant (General)",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Actuary",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Aeronautical Engineer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Agricultural Consultant",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Agricultural Engineer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Agricultural Scientist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Airconditioning and Mechanical Services Plumber",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Analyst Programmer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Architect",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Arts Administrator or Manager",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Audiologist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Biochemist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Biomedical Engineer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Biotechnologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Boat Builder and Repairer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Bricklayer",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Cabinetmaker",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Cardiothoracic Surgeon",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Carpenter",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Carpenter and Joiner",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Chef",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Chemical Engineer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Chemist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Child Care Centre Manager",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Chiropractor",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Civil Engineer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Civil Engineering Draftsperson",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Civil Engineering Technician",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Clinical Psychologist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Computer Network and Systems Engineer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Construction Project Manager",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Dancer or Choreographer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Dermatologist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Developer Programmer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Diagnostic and Interventional Radiologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Diesel Motor Mechanic",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Early Childhood (Pre-primary School) Teacher",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Economist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Educational psychologist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Electrical Engineer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Electrical Engineering Draftsperson",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Electrical Engineering Technician",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Electrician (General)",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Electronic Instrument Trades Worker (Special Class)",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Electronics Engineer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Emergency Medicine Specialist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Engineering Manager",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Engineering Professionals nec",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Engineering Technologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Environmental Consultant",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Environmental Engineer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Environmental Manager",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Environmental Research Scientist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Environmental Scientists nec",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "External Auditor",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Fibrous Plasterer",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Food Technologist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Forester",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "General Practitioner",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Geophysicist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Geotechnical Engineer",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Hydrogeologist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "ICT Business Analyst",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "ICT Security Specialist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Industrial Engineer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Intensive Care Specialist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Internal Auditor",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Landscape Architect",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Life Scientist (General)",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Life Scientists nec",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Lift Mechanic",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Management Accountant",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Management Consultant",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Marine Biologist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Materials Engineer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Mechanical Engineer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Medical Diagnostic Radiographer",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Medical Laboratory Scientist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Medical Practitioners nec",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Medical Radiation Therapist+",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Metal Fabricator",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Metal Machinist (First Class)",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Metallurgist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Meteorologist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Microbiologist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Midwife",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Mining Engineer (excluding Petroleum)",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Motor Mechanic (General)",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Multimedia Specialist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Music Director",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Musician (Instrumental)",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Natural and Physical Science Professionals nec",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Naval Architect",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Neurologist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Nuclear Medicine Technologist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Nurse Practitioner",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Nursing Clinical Director",
+     "min_189": 115,
+     "min_189_text": "115",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Obstetrician and Gynaecologist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Occupational Therapist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Optometrist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Orthopaedic Surgeon",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Orthotist or Prosthetist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Osteopath",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Other Spatial Scientist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Paediatrician",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Painting Trades Worker",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Pathologist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Petroleum Engineer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Physicist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Physiotherapist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Plumber (General)",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Podiatrist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Primary Health Organisation Manager",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Production or Plant Engineer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Psychiatrist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Psychologists nec",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Quantity Surveyor",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Aged Care)",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Child and Family Health)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Community Health)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Critical Care and Emergency)",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Developmental Disability)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Disability and Rehabilitation)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Medical Practice)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Medical)",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Mental Health)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Paediatrics)",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Perioperative)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Surgical)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurses nec",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Secondary School Teacher",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Sheetmetal Trades Worker",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Social Worker",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Software and Applications Programmers nec",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Software Engineer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Solicitor",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Solid Plasterer",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Sonographer",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Special Education Teachers nec",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Special Needs Teacher",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Specialist Physician (General Medicine)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Specialist Physicians nec",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Speech Pathologist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Statistician",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Structural Engineer",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Surveyor",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Systems Analyst",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Taxation Accountant",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Telecommunications Engineer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Telecommunications Field Engineer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Telecommunications Network Engineer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Telecommunications Network Planner",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Telecommunications Technical Officer or Technologist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Thoracic Medicine Specialist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Transport Engineer",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "University Lecturer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Valuer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Veterinarian",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Wall and Floor Tiler",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Welder (First Class)",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Zoologist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    }
+   ]
+  },
+  {
+   "date": "2024-09-05",
+   "totals": [
+    {
+     "subclass": "189",
+     "invited": 7973,
+     "invited_text": "7,973",
+     "tie_break_text": "09/2022"
+    },
+    {
+     "subclass": "491-family",
+     "invited": 0,
+     "invited_text": "0",
+     "tie_break_text": "N/A"
+    }
+   ],
+   "occupations_format": "modern",
+   "occupations": [
+    {
+     "occupation": "Accountant (General)",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Actuary",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Aeronautical Engineer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Agricultural Consultant",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Agricultural Engineer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Agricultural Scientist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Airconditioning and Mechanical Services Plumber",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Analyst Programmer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Architect",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Audiologist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Biochemist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Biomedical Engineer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Biotechnologist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Bricklayer",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Cabinetmaker",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Cardiologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Cardiothoracic Surgeon",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Carpenter",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Carpenter and Joiner",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Chef",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Chemical Engineer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Chemist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Child Care Centre Manager",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Chiropractor",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Civil Engineer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Civil Engineering Draftsperson",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Civil Engineering Technician",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Clinical Psychologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Computer Network and Systems Engineer",
+     "min_189": 100,
+     "min_189_text": "100",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Construction Project Manager",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Developer Programmer",
+     "min_189": 100,
+     "min_189_text": "100",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Diagnostic and Interventional Radiologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Diesel Motor Mechanic",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Drainer",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Early Childhood (Pre-primary School) Teacher",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Economist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Electrical Engineer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Electrician (General)",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Electrician (Special Class)",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Electronics Engineer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Emergency Medicine Specialist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Engineering Manager",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Engineering Professionals nec",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Engineering Technologist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Environmental Consultant",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Environmental Engineer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Environmental Manager",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Environmental Research Scientist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "External Auditor",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Fibrous Plasterer",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Food Technologist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Gasfitter",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Gastroenterologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "General Practitioner",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Geophysicist",
+     "min_189": 100,
+     "min_189_text": "100",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Geotechnical Engineer",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Glazier",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "ICT Business Analyst",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "ICT Security Specialist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Industrial Engineer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Intensive Care Specialist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Internal Auditor",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Joiner",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Landscape Architect",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Life Scientist (General)",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Life Scientists nec",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Lift Mechanic",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Management Accountant",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Management Consultant",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Marine Biologist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Materials Engineer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Mechanical Engineer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Medical Diagnostic Radiographer",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Medical Laboratory Scientist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Medical Practitioners nec",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Metal Fabricator",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Microbiologist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Midwife",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Mining Engineer (excluding Petroleum)",
+     "min_189": 105,
+     "min_189_text": "105",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Motor Mechanic (General)",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Multimedia Specialist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Naval Architect",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Nuclear Medicine Technologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Nurse Practitioner",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Nursing Clinical Director",
+     "min_189": 115,
+     "min_189_text": "115",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Obstetrician and Gynaecologist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Occupational Therapist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Ophthalmologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Optometrist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Orthotist or Prosthetist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Other Spatial Scientist",
+     "min_189": 100,
+     "min_189_text": "100",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Paediatrician",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Painting Trades Worker",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Pathologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Petroleum Engineer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Physicist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Physiotherapist",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Plumber (General)",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Podiatrist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Primary Health Organisation Manager",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Production or Plant Engineer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Psychiatrist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Psychologists nec",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Quantity Surveyor",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Aged Care)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Child and Family Health)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Community Health)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Critical Care and Emergency)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Disability and Rehabilitation)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Medical Practice)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Medical)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Mental Health)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Paediatrics)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Perioperative)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Surgical)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurses nec",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Roof Plumber",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Secondary School Teacher",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Sheetmetal Trades Worker",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Shipwright",
+     "min_189": 105,
+     "min_189_text": "105",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Social Worker",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Software and Applications Programmers nec",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Software Engineer",
+     "min_189": 100,
+     "min_189_text": "100",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Solicitor",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Solid Plasterer",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Sonographer",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Special Education Teachers nec",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Special Needs Teacher",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Specialist Physician (General Medicine)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Specialist Physicians nec",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Speech Pathologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Statistician",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Stonemason",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Structural Engineer",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Surgeon (General)",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Surveyor",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Systems Analyst",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Taxation Accountant",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Telecommunications Engineer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Telecommunications Field Engineer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Telecommunications Network Engineer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Transport Engineer",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "University Lecturer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Urologist",
+     "min_189": 80,
+     "min_189_text": "80",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Valuer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Veterinarian",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Wall and Floor Tiler",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Welder (First Class)",
+     "min_189": 75,
+     "min_189_text": "75",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Zoologist",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    }
+   ]
+  },
+  {
+   "date": "2024-06-13",
+   "totals": [
+    {
+     "subclass": "189",
+     "invited": 5292,
+     "invited_text": "5,292",
+     "tie_break_text": "15/2024"
+    },
+    {
+     "subclass": "491-family",
+     "invited": 0,
+     "invited_text": "0",
+     "tie_break_text": "N/A"
+    }
+   ],
+   "occupations_format": "modern",
+   "occupations": [
+    {
+     "occupation": "Accountant (General)",
+     "min_189": 100,
+     "min_189_text": "100",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Actuary",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Aeronautical Engineer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Agricultural Consultant",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Agricultural Engineer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Agricultural Scientist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Airconditioning and Mechanical Services Plumber",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Analyst Programmer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Architect",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Audiologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Biomedical Engineer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Biotechnologist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Bricklayer",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Cabinetmaker",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Carpenter",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Carpenter and Joiner",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Chef",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Chemical Engineer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Chemist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Child Care Centre Manager",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Chiropractor",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Civil Engineer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Civil Engineering Draftsperson",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Civil Engineering Technician",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Clinical Psychologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Computer Network and Systems Engineer",
+     "min_189": 100,
+     "min_189_text": "100",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Construction Project Manager",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Dancer or Choreographer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Developer Programmer",
+     "min_189": 100,
+     "min_189_text": "100",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Diagnostic and Interventional Radiologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Drainer",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Early Childhood (Pre-primary School) Teacher",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Economist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Electrical Engineer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Electrician (General)",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Electrician (Special Class)",
+     "min_189": 70,
+     "min_189_text": "70",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Electronics Engineer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Emergency Medicine Specialist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Endocrinologist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Engineering Manager",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Engineering Professionals (nec)",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Engineering Technologist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Environmental Consultant",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Environmental Engineer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Environmental Research Scientist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "External Auditor",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Fibrous Plasterer",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Food Technologist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Forester",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Gasfitter",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "General Practitioner",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Geophysicist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Geotechnical Engineer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Glazier",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "ICT Business Analyst",
+     "min_189": 100,
+     "min_189_text": "100",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "ICT Security Specialist",
+     "min_189": 100,
+     "min_189_text": "100",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Industrial Engineer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Internal Auditor",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Joiner",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Land Economist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Landscape Architect",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Life Scientist (General)",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Life Scientist (nec)",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Lift Mechanic",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Management Accountant",
+     "min_189": 100,
+     "min_189_text": "100",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Management Consultant",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Marine Biologist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Materials Engineer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Mechanical Engineer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Medical Diagnostic Radiographer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Medical Laboratory Scientist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Medical Oncologist",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Medical Practitioners nec",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Metal Fabricator",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Metallurgist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Microbiologist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Midwife",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Mining Engineer (excluding Petroleum)",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Motor Mechanic (General)",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Multimedia Specialist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Naval Architect",
+     "min_189": 100,
+     "min_189_text": "100",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Obstetrician and Gynaecologist",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Occupational Therapist",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Other Spatial Scientist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Paediatrician",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Painting Trades Worker",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Pathologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Petroleum Engineer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Physicist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Physiotherapist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Plumber (General)",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Production or Plant Engineer",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Psychiatrist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Psychologist (nec)",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Quantity Surveyor",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Aged Care)",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Child and Family Health)",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Community Health)",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Critical Care and Emergency)",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Medical Practice)",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Medical)",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Mental Health)",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Paediatrics)",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Perioperative)",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurse (Surgical)",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Registered Nurses (nec)",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Roof Plumber",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Secondary School Teacher",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Sheetmetal Trades Worker",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Shipwright",
+     "min_189": 105,
+     "min_189_text": "105",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Social Worker",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Software and Applications Programmers (nec)",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Software Engineer",
+     "min_189": 100,
+     "min_189_text": "100",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Solicitor",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Solid Plasterer",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Special Needs Teacher",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Specialist Physician (General Medicine)",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Speech Pathologist",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Statistician",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Stonemason",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Structural Engineer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Surveyor",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Systems Analyst",
+     "min_189": 100,
+     "min_189_text": "100",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Taxation Accountant",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Telecommunications Engineer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Telecommunications Field Engineer",
+     "min_189": 100,
+     "min_189_text": "100",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Telecommunications Network Engineer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Telecommunications Network Planner",
+     "min_189": 90,
+     "min_189_text": "90",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Transport Engineer",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "University Lecturer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Valuer",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Veterinarian",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Wall and Floor Tiler",
+     "min_189": 65,
+     "min_189_text": "65",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Welder (First Class)",
+     "min_189": 85,
+     "min_189_text": "85",
+     "min_491": null,
+     "min_491_text": null
+    },
+    {
+     "occupation": "Zoologist",
+     "min_189": 95,
+     "min_189_text": "95",
+     "min_491": null,
+     "min_491_text": null
+    }
+   ]
+  },
+  {
+   "date": "2023-12-18",
+   "totals": [
+    {
+     "subclass": "189",
+     "invited": 8300,
+     "invited_text": "8,300",
+     "tie_break_text": "11/2023"
+    },
+    {
+     "subclass": "491-family",
+     "invited": 79,
+     "invited_text": "79",
+     "tie_break_text": "12/2023"
+    }
+   ],
+   "occupations_format": "not-parsed",
+   "occupations": []
+  },
+  {
+   "date": "2023-05-25",
+   "totals": [
+    {
+     "subclass": "189",
+     "invited": 7353,
+     "invited_text": "7,353",
+     "tie_break_text": null
+    },
+    {
+     "subclass": "491-family",
+     "invited": 74,
+     "invited_text": "74",
+     "tie_break_text": null
+    }
+   ],
+   "occupations_format": "not-parsed",
+   "occupations": []
+  },
+  {
+   "date": "2022-12-08",
+   "totals": [
+    {
+     "subclass": "189",
+     "invited": 35000,
+     "invited_text": "35,000",
+     "tie_break_text": null
+    },
+    {
+     "subclass": "491-family",
+     "invited": 120,
+     "invited_text": "120",
+     "tie_break_text": null
+    }
+   ],
+   "occupations_format": "not-parsed",
+   "occupations": []
+  },
+  {
+   "date": "2022-10-06",
+   "totals": [
+    {
+     "subclass": "189",
+     "invited": 11714,
+     "invited_text": "11,714",
+     "tie_break_text": null
+    },
+    {
+     "subclass": "491-family",
+     "invited": 818,
+     "invited_text": "818",
+     "tie_break_text": null
+    }
+   ],
+   "occupations_format": "not-parsed",
+   "occupations": []
+  },
+  {
+   "date": "2022-08-22",
+   "totals": [
+    {
+     "subclass": "189",
+     "invited": 12200,
+     "invited_text": "12,200",
+     "tie_break_text": null
+    },
+    {
+     "subclass": "491-family",
+     "invited": 466,
+     "invited_text": "466",
+     "tie_break_text": null
+    }
+   ],
+   "occupations_format": "not-parsed",
+   "occupations": []
+  },
+  {
+   "date": "2022-04-21",
+   "totals": [
+    {
+     "subclass": "189",
+     "invited": 1000,
+     "invited_text": "1000",
+     "tie_break_text": null
+    },
+    {
+     "subclass": "491-family",
+     "invited": 500,
+     "invited_text": "500",
+     "tie_break_text": null
+    }
+   ],
+   "occupations_format": "not-parsed",
+   "occupations": []
+  },
+  {
+   "date": "2022-01-21",
+   "totals": [
+    {
+     "subclass": "189",
+     "invited": 200,
+     "invited_text": "200",
+     "tie_break_text": null
+    },
+    {
+     "subclass": "491-family",
+     "invited": 200,
+     "invited_text": "200",
+     "tie_break_text": null
+    }
+   ],
+   "occupations_format": "not-parsed",
+   "occupations": []
+  },
+  {
+   "date": "2021-10-29",
+   "totals": [
+    {
+     "subclass": "189",
+     "invited": 200,
+     "invited_text": "200",
+     "tie_break_text": null
+    },
+    {
+     "subclass": "491-family",
+     "invited": 200,
+     "invited_text": "200",
+     "tie_break_text": null
+    }
+   ],
+   "occupations_format": "not-parsed",
+   "occupations": []
+  },
+  {
+   "date": "2021-07-26",
+   "totals": [
+    {
+     "subclass": "189",
+     "invited": 250,
+     "invited_text": "250",
+     "tie_break_text": null
+    },
+    {
+     "subclass": "491-family",
+     "invited": 500,
+     "invited_text": "500",
+     "tie_break_text": null
+    }
+   ],
+   "occupations_format": "not-parsed",
+   "occupations": []
+  },
+  {
+   "date": "2021-04-21",
+   "totals": [
+    {
+     "subclass": "189",
+     "invited": 500,
+     "invited_text": "500",
+     "tie_break_text": null
+    },
+    {
+     "subclass": "491-family",
+     "invited": 160,
+     "invited_text": "160",
+     "tie_break_text": null
+    }
+   ],
+   "occupations_format": "not-parsed",
+   "occupations": []
+  },
+  {
+   "date": "2021-01-21",
+   "totals": [
+    {
+     "subclass": "189",
+     "invited": 200,
+     "invited_text": "200",
+     "tie_break_text": null
+    },
+    {
+     "subclass": "491-family",
+     "invited": 163,
+     "invited_text": "163",
+     "tie_break_text": null
+    }
+   ],
+   "occupations_format": "not-parsed",
+   "occupations": []
+  },
+  {
+   "date": "2020-09-11",
+   "totals": [
+    {
+     "subclass": "189",
+     "invited": 350,
+     "invited_text": "350",
+     "tie_break_text": null
+    },
+    {
+     "subclass": "491-family",
+     "invited": 150,
+     "invited_text": "150",
+     "tie_break_text": null
+    }
+   ],
+   "occupations_format": "not-parsed",
+   "occupations": []
+  },
+  {
+   "date": "2020-08-11",
+   "totals": [
+    {
+     "subclass": "189",
+     "invited": 110,
+     "invited_text": "110",
+     "tie_break_text": null
+    },
+    {
+     "subclass": "491-family",
+     "invited": 90,
+     "invited_text": "90",
+     "tie_break_text": null
+    }
+   ],
+   "occupations_format": "not-parsed",
+   "occupations": []
+  }
+ ],
+ "review": [
+  {
+   "date": "2020-10-21",
+   "totals": [
+    {
+     "subclass": "189",
+     "invited": 30,
+     "invited_text": "30",
+     "tie_break_text": null
+    },
+    {
+     "subclass": "491-family",
+     "invited": 80,
+     "invited_text": "80",
+     "tie_break_text": null
+    },
+    {
+     "subclass": "189",
+     "invited": 350,
+     "invited_text": "350",
+     "tie_break_text": null
+    },
+    {
+     "subclass": "491-family",
+     "invited": 150,
+     "invited_text": "150",
+     "tie_break_text": null
+    }
+   ],
+   "occupations_format": "not-parsed",
+   "occupations": []
+  }
+ ]
+}
