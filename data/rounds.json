@@ -1,10 +1,10 @@
 {
- "snapshot_date": "2026-09-24",
+ "snapshot_date": "2026-10-11",
  "source_id": "ha-skillselect-rounds",
  "source_url": "https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect/invitation-rounds",
- "raw_sha256": "8c7b63d621b1e04e38ffb014fc315128593e4796318baaa1828bb2ff2f308f47",
+ "raw_sha256": "182b79914013cd4deef6552eaf55abc9919d050063ad87b481be168950e1b56f",
  "previous_source_url": "https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect/previous-rounds",
- "previous_raw_sha256": "0e56ecf71e2cc42946997d6a023c6adfa0d024688704ce5be59bca8da43d467c",
+ "previous_raw_sha256": "5487208f3ca97861f0e76c44ad8a4192f1dda1655826b213e680a4e009eb2b45",
  "rounds_total": 19,
  "latest_date": "2026-06-04",
  "rounds": [
